@@ -1,0 +1,6 @@
+i = input("how many times i eat in a day?")
+a= input("enter one number:    ")
+b= input("enter another number:    ")
+f = float(a) / float(b)
+print(i)
+print(f)
