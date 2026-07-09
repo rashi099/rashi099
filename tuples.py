@@ -5,4 +5,4 @@ if "mango" in tuples:
 if "man" not in tuples:
     print("no")print(len(tuples))tuples.remove("noi")
 tuples[2] = "banana"
-print(tuples)
+print(tuples)del tuples
